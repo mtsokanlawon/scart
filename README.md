@@ -530,4 +530,4 @@ to demonstrate the practical integration of AI and mechatronics in an intelligen
 
 ## License
 
-Add an appropriate open-source license before distributing the repository publicly.
+[MIT LICENSE](LICENSE)
