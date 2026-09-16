@@ -466,22 +466,6 @@ Selected prototype measurements are shown below.
 These values represent experimental prototype results rather than production-level performance specifications.
 
 ---
-
-## Current Limitations
-
-The current prototype has the following limitations:
-
-- Autonomous movement is limited to linear translation.
-- Steering during turns remains manual.
-- Visual tracking can be affected by significant camera motion and occlusion.
-- Target reacquisition is not instantaneous under all conditions.
-- Ultrasonic measurements can vary with target geometry and environmental conditions.
-- The prototype does not perform autonomous mapping or global path planning.
-- Automatic billing and inventory-management functions are outside the project scope.
-- Further long-duration reliability testing is required.
-
----
-
 ## Future Development
 
 Potential extensions include:
