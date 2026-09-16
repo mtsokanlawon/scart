@@ -1,0 +1,26 @@
+# Block dataset image and debug folder
+datasets/
+images/
+debug_images/
+data/
+
+#Block common immage and video rxtensions
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+
+# Block pytho virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+.vscode/
+.idea/
+
+# Test Texts
+tracking_text_*
+/tracking_test_*
+test_*.txt
